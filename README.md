@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">👨🏻‍💻 Vinicius "Vinih" Marteleto</h1>
+<h3 align="center">Desenvolvedor Backend • Python • APIs • Automação</h3>
 
-<!--
-**VinihMarteleto/VinihMarteleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Desenvolvedor+Backend;Python+Developer;APIs+REST;Automacao+de+Processos;Sempre+aprendendo+e+evoluindo" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou **desenvolvedor backend em formação**, com foco em **Python**, **APIs REST**, **automação de processos** e **lógica de programação**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e desenvolvo projetos práticos voltados para o mercado, priorizando código limpo, organização e boas práticas.
+
+Meu objetivo é atuar profissionalmente como **Desenvolvedor Backend Python**, contribuindo em projetos reais e escaláveis.
+
+📍 Pindamonhangaba – SP  
+🎯 Foco atual: Python • Backend • APIs • Automação  
+
+---
+
+## 🧰 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,git,mysql,vscode&theme=dark" />
+</p>
+
+---
+
+## ⭐ Projetos em Destaque
+
+### 🐍 APIs Backend em Python
+Criação de APIs REST organizadas, com validação de dados, integração com banco de dados e estrutura modular.
+
+### ⚙️ Automação de Processos
+Desenvolvimento de scripts Python para automação de tarefas repetitivas, processamento de dados e otimização de rotinas.
+
+### 🌐 Integração Web
+Projetos utilizando **HTML** integrados ao backend para aplicações funcionais.
+
+👉 Veja todos os meus projetos:  
+🔗 https://github.com/VinihMarteleto?tab=repositories  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VinihMarteleto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihMarteleto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato Profissional
+
+<p align="center">
+  <a href="mailto:vinihmarteleto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinihmarteleto%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/vinícius-gonçalves-marteleto">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Marteleto-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5512991266088">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Backend focado • Código limpo • Evolução constante
+</p>
