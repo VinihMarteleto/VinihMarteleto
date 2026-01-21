@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Vinicius "Vinih" Marteleto</h1>
+<h1 align="center">👨🏻‍💻 Vinicius Marteleto</h1>
 <h3 align="center">Desenvolvedor Backend • Python • APIs • Automação</h3>
 
 <p align="center">
