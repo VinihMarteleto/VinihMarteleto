@@ -1,9 +1,38 @@
 <h1 align="center">👨🏻‍💻 Vinicius Marteleto</h1>
 <h3 align="center">Desenvolvedor Backend • Python • APIs • Automação</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Desenvolvedor+Backend;Python+Developer;APIs+REST;Automacao+de+Processos;Sempre+aprendendo+e+evoluindo" />
-</p>
+<div align="center" 
+style="
+background-image: url('https://github.com/user-attachments/assets/61ed25c0-bd09-4c91-83df-74e79f11fb85');
+background-size: cover;
+background-position: center;
+padding: 55px 25px;
+border-radius: 20px;
+box-shadow: inset 0px 0px 80px rgba(10, 2, 2, 0.6);
+margin-bottom: 20px;
+">
+
+<h2 style="
+color: #0dc48d;
+font-weight: 900;
+font-size: 28px;
+text-transform: uppercase;
+text-shadow:
+0 0 6px #03271f,
+0 0 18px #007c61,
+0 0 35px rgba(0, 0, 0, 0.8);
+">
+
+BACKEND DEVELOPER • PYTHON • APIs • AUTOMATION
+
+</h2>
+
+</div>
+
+
+
+
+
 
 ---
 
